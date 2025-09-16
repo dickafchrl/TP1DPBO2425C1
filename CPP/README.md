@@ -12,7 +12,7 @@ Pada program ini user dapat melakukan operasi CRUD pada daftar produk yang ada d
 
 Untuk struktur kelas yang aku gunakan ialah seperti ini :
 class Produk
-        string id;  // Untuk id barang elektronik
-        string nama; // Untuk nama barang elektronik
-        string harga; // Untuk harga barang elektronik
-        string stok; // Untuk stok barang elektronik
+        string id
+        string nama
+        string harga
+        string stok
