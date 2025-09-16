@@ -11,7 +11,9 @@ Pada program ini user dapat melakukan operasi CRUD pada daftar produk yang ada d
 6. Keluar program
 
 Untuk struktur kelas yang aku gunakan ialah seperti ini :
+
 class Produk
+
         string id
         string nama
         string harga
