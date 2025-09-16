@@ -1,5 +1,5 @@
 # Janji
-Saya Dicka Fachrunaldo Kartamiharja dengan NIM 2407846 mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Dicka Fachrunaldo Kartamiharja  NIM 2407846 mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Deskripsi Program
 Pada program ini user dapat melakukan operasi CRUD pada daftar produk yang ada di toko barang elektronik. Untuk opsi pilihan nya, user akan di berikan 6 pilihan.
